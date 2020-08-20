@@ -2,6 +2,8 @@
 
 This fork of the [Marlin firmware](https://github.com/MarlinFirmware/Marlin) contains my configurations and builds to accomodate my custom hardware modifications. If you share the same hardware or if you are considering acquiring it, than you might be interested in digging into this repository.
 
+Be advised that this firmware configuration and build have been tested successfully on my hardware. However you will use it at your own risk.
+
 ## Ender-3---Hemera-SKR-mini-1.2 branch
 
 ### Modification features
