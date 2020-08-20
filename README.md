@@ -4,7 +4,7 @@ This fork of the [Marlin firmware](https://github.com/MarlinFirmware/Marlin) con
 
 Be advised that this firmware configuration and build have been tested successfully on my hardware. However you will use it at your own risk.
 
-## Ender-3---Hemera-SKR-mini-1.2 branch
+## Ender3pro-Hemera-SKRminiV1.2 branch
 
 ### Modification features
 
