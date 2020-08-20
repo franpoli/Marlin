@@ -1,3 +1,26 @@
+# About this fork
+
+This fork of the [Marlin firmware](https://github.com/MarlinFirmware/Marlin) contains my configurations and builds to accomodate my custom hardware modifications. If you share the same hardware or if you are considering acquiring it, than you might be interested in digging into this repository.
+
+## Ender-3---Hemera-SKR-mini-1.2 branch
+
+### Modification features
+
+- direct drive (E3D Hemera)
+- 32 bit board (SKR Mini 1.2)
+- thermal runout sensor
+
+### Modification disadvantages
+
+- you will loose 20 mm on the Y-axis performing this change
+
+### Hardware prerequisite
+
+- [BIGTREETECH SKR MINI E3 32 Bit Control Board Integrated TMC2209 UART For Ender 3 (V.1.2)](http://www.bigtree-tech.com/)
+- [E3D Hemera Direct Kit (1.75mm)](https://e3d-online.com/collections/hotends/products/e3d-hemera-direct-kit-1-75mm)
+- [E3D Hermes / Hemera Ender 3 (Pro) mount plate](https://www.thingiverse.com/thing:4118464)
+- [Hemera 5015 Fan Shroud](https://www.thingiverse.com/thing:4031637)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
