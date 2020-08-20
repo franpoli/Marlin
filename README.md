@@ -10,7 +10,7 @@ Be advised that this firmware configuration and build have been tested successfu
 
 - direct drive (E3D Hemera)
 - 32 bit board (SKR Mini 1.2)
-- thermal runout sensor
+- thermal runaway on
 
 ### Modification disadvantages
 
