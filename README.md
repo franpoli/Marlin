@@ -22,6 +22,7 @@ Be advised that this firmware configuration and build have been tested successfu
 - [E3D Hemera Direct Kit (1.75mm)](https://e3d-online.com/collections/hotends/products/e3d-hemera-direct-kit-1-75mm)
 - [E3D Hermes / Hemera Ender 3 (Pro) mount plate](https://www.thingiverse.com/thing:4118464)
 - [Hemera 5015 Fan Shroud](https://www.thingiverse.com/thing:4031637)
+- [BLtouch mount](https://www.thingiverse.com/thing:4194573)
 
 # Marlin 3D Printer Firmware
 
