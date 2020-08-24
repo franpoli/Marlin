@@ -11,6 +11,8 @@ Be advised that this firmware configuration and build have been tested successfu
 - direct drive (E3D Hemera)
 - 32 bit board (SKR Mini 1.2)
 - thermal runaway on
+- bed auto leveling
+- filament runout 
 
 ### Modification disadvantages
 
@@ -23,6 +25,7 @@ Be advised that this firmware configuration and build have been tested successfu
 - [E3D Hermes / Hemera Ender 3 (Pro) mount plate](https://www.thingiverse.com/thing:4118464)
 - [Hemera 5015 Fan Shroud](https://www.thingiverse.com/thing:4031637)
 - [BLtouch mount](https://www.thingiverse.com/thing:4194573)
+- [filament runout sensor](https://www.3dprima.com/parts/spare-parts/creality-3d/a-22649)
 
 # Marlin 3D Printer Firmware
 
