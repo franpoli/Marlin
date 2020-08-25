@@ -12,6 +12,7 @@ Be advised that this firmware configuration and build have been tested successfu
 - 32 bit board (SKR Mini 1.2)
 - thermal runaway on
 - bed auto leveling
+- filament change
 - filament runout 
 
 ### Modification disadvantages
@@ -20,6 +21,7 @@ Be advised that this firmware configuration and build have been tested successfu
 
 ### Hardware prerequisite
 
+- [Ender 3 Pro](https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer) / [Ender 3 from Creality](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer)
 - [BIGTREETECH SKR MINI E3 32 Bit Control Board Integrated TMC2209 UART For Ender 3 (V.1.2)](http://www.bigtree-tech.com/)
 - [E3D Hemera Direct Kit (1.75mm)](https://e3d-online.com/collections/hotends/products/e3d-hemera-direct-kit-1-75mm)
 - [E3D Hermes / Hemera Ender 3 (Pro) mount plate](https://www.thingiverse.com/thing:4118464)
